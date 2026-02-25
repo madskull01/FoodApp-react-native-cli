@@ -87,7 +87,7 @@ You've successfully run and modified your React Native App. :partying_face:
 
 ## 🎥 Demo Video
 
-[Click here to watch demo](FoodAppDemo.mp4)
+![Appdemo](FoodAppDemo.gif)
 
 ### Now what?
 
